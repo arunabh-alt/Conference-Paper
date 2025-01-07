@@ -2,9 +2,11 @@
 
 This repository contains the frontend and backend code for the Cattle Management System.
 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="100">
-<img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="100">
-<img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="100">
+<p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="100">
+  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS Logo" width="100">
+</p>
 
 ## Table of Contents
 - [Frontend Setup](#frontend-setup)
